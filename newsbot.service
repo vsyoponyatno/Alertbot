@@ -1,0 +1,14 @@
+[Unit]
+Description=RSIA Alert Bot interface
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/news_monitor
+ExecStart=/usr/bin/python3 /opt/news_monitor/bot.py
+EnvironmentFile=/opt/news_monitor/.env
+User=root
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

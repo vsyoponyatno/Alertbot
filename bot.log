@@ -1,0 +1,538 @@
+2025-06-15 03:28:44,882 [INFO] Connecting to 149.154.167.51:443/TcpFull...
+2025-06-15 03:28:46,273 [INFO] Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-15 04:56:52,333 [INFO] Start polling
+2025-06-15 04:56:52,492 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIa_bot'
+2025-06-15 04:58:22,382 [INFO] Update id=632850921 is handled. Duration 224 ms by bot id=7316010696
+2025-06-15 04:58:24,142 [INFO] Update id=632850922 is handled. Duration 64 ms by bot id=7316010696
+2025-06-15 04:58:26,112 [INFO] Update id=632850923 is handled. Duration 67 ms by bot id=7316010696
+2025-06-15 04:58:27,618 [INFO] Monitoring flag set to True
+2025-06-15 04:58:27,685 [INFO] Update id=632850924 is handled. Duration 70 ms by bot id=7316010696
+2025-06-15 04:58:48,875 [INFO] Update id=632850925 is handled. Duration 178 ms by bot id=7316010696
+2025-06-15 04:59:07,904 [INFO] Update id=632850926 is handled. Duration 180 ms by bot id=7316010696
+2025-06-15 04:59:09,233 [INFO] Monitoring flag set to True
+2025-06-15 04:59:09,304 [INFO] Update id=632850927 is handled. Duration 73 ms by bot id=7316010696
+2025-06-15 04:59:14,643 [INFO] Channel e added
+2025-06-15 04:59:14,643 [INFO] Update id=632850928 is handled. Duration 73 ms by bot id=7316010696
+2025-06-15 04:59:20,720 [INFO] Update id=632850929 is handled. Duration 68 ms by bot id=7316010696
+2025-06-15 04:59:22,568 [INFO] Channel e removed
+2025-06-15 04:59:22,568 [INFO] Update id=632850930 is handled. Duration 68 ms by bot id=7316010696
+2025-06-15 05:02:05,857 [INFO] Monitoring flag set to True
+2025-06-15 05:02:06,030 [INFO] Update id=632850931 is handled. Duration 177 ms by bot id=7316010696
+2025-06-15 05:02:07,387 [INFO] Update id=632850932 is handled. Duration 62 ms by bot id=7316010696
+2025-06-15 05:02:09,197 [INFO] Channel rt_russian added
+2025-06-15 05:02:09,197 [INFO] Update id=632850933 is handled. Duration 184 ms by bot id=7316010696
+2025-06-15 05:08:48,978 [INFO] Monitoring flag set to True
+2025-06-15 05:08:49,148 [INFO] Update id=632850934 is handled. Duration 173 ms by bot id=7316010696
+2025-06-15 05:10:24,867 [INFO] Update id=632850935 is handled. Duration 178 ms by bot id=7316010696
+2025-06-15 05:10:29,691 [INFO] Channel rgrunews added
+2025-06-15 05:10:29,692 [INFO] Update id=632850936 is handled. Duration 68 ms by bot id=7316010696
+2025-06-15 05:12:15,023 [WARNING] Received SIGINT signal
+2025-06-15 05:12:15,027 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIa_bot'
+2025-06-15 05:12:15,027 [INFO] Polling stopped
+2025-06-15 18:20:56,437 [INFO] Start polling
+2025-06-15 18:20:56,614 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-15 18:20:56,688 [INFO] Monitoring flag set to False
+2025-06-15 18:20:56,920 [INFO] Update id=632850937 is handled. Duration 232 ms by bot id=7316010696
+2025-06-15 18:21:26,108 [INFO] Update id=632850938 is handled. Duration 297 ms by bot id=7316010696
+2025-06-15 18:21:28,908 [INFO] Update id=632850939 is handled. Duration 80 ms by bot id=7316010696
+2025-06-15 18:21:31,278 [INFO] Monitoring flag set to True
+2025-06-15 18:21:31,350 [INFO] Update id=632850940 is handled. Duration 73 ms by bot id=7316010696
+2025-06-15 18:22:21,101 [WARNING] Received SIGINT signal
+2025-06-15 18:22:21,105 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-15 18:22:21,106 [INFO] Polling stopped
+2025-06-16 02:27:49,976 [INFO] Start polling
+2025-06-16 02:27:50,134 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 02:27:50,221 [INFO] Monitoring flag set to False
+2025-06-16 02:27:50,223 [INFO] Monitoring flag set to False
+2025-06-16 02:27:50,226 [INFO] Monitoring flag set to False
+2025-06-16 02:27:50,414 [INFO] Update id=632850944 is handled. Duration 201 ms by bot id=7316010696
+2025-06-16 02:27:50,415 [INFO] Update id=632850945 is handled. Duration 201 ms by bot id=7316010696
+2025-06-16 02:27:50,428 [INFO] Update id=632850942 is handled. Duration 217 ms by bot id=7316010696
+2025-06-16 02:27:50,449 [INFO] Update id=632850943 is handled. Duration 238 ms by bot id=7316010696
+2025-06-16 02:27:50,469 [INFO] Update id=632850941 is handled. Duration 259 ms by bot id=7316010696
+2025-06-16 02:27:50,496 [INFO] Update id=632850947 is handled. Duration 282 ms by bot id=7316010696
+2025-06-16 02:27:50,505 [INFO] Update id=632850948 is handled. Duration 291 ms by bot id=7316010696
+2025-06-16 02:27:50,527 [INFO] Update id=632850946 is handled. Duration 313 ms by bot id=7316010696
+2025-06-16 02:28:35,951 [INFO] Monitoring flag set to True
+2025-06-16 02:28:36,175 [INFO] Update id=632850949 is handled. Duration 225 ms by bot id=7316010696
+2025-06-16 02:28:36,876 [INFO] Update id=632850950 is handled. Duration 61 ms by bot id=7316010696
+2025-06-16 02:29:42,394 [INFO] Update id=632850951 is handled. Duration 175 ms by bot id=7316010696
+2025-06-16 02:30:09,525 [INFO] Monitoring flag set to False
+2025-06-16 02:30:09,710 [INFO] Update id=632850952 is handled. Duration 185 ms by bot id=7316010696
+2025-06-16 02:30:11,492 [INFO] Update id=632850953 is handled. Duration 67 ms by bot id=7316010696
+2025-06-16 02:30:13,494 [INFO] Monitoring flag set to True
+2025-06-16 02:30:13,601 [INFO] Update id=632850954 is handled. Duration 107 ms by bot id=7316010696
+2025-06-16 02:30:15,934 [INFO] Channel ➖ Убрать канал added
+2025-06-16 02:30:15,935 [INFO] Update id=632850955 is handled. Duration 72 ms by bot id=7316010696
+2025-06-16 02:31:17,308 [INFO] Update id=632850956 is handled. Duration 180 ms by bot id=7316010696
+2025-06-16 02:31:22,585 [INFO] Update id=632850957 is handled. Duration 65 ms by bot id=7316010696
+2025-06-16 02:31:26,602 [INFO] Update id=632850958 is handled. Duration 63 ms by bot id=7316010696
+2025-06-16 02:31:34,790 [INFO] Update id=632850959 is handled. Duration 66 ms by bot id=7316010696
+2025-06-16 02:31:37,069 [INFO] Update id=632850960 is handled. Duration 66 ms by bot id=7316010696
+2025-06-16 02:31:45,053 [INFO] Update id=632850961 is handled. Duration 110 ms by bot id=7316010696
+2025-06-16 02:37:03,796 [WARNING] Received SIGINT signal
+2025-06-16 02:37:03,797 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 02:37:03,798 [INFO] Polling stopped
+2025-06-16 03:50:48,019 [INFO] Start polling
+2025-06-16 03:50:48,173 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 03:51:55,365 [INFO] Monitoring flag set to False
+2025-06-16 03:51:55,560 [INFO] Update id=632850962 is handled. Duration 196 ms by bot id=7316010696
+2025-06-16 03:51:56,737 [INFO] Monitoring flag set to True
+2025-06-16 03:51:56,800 [INFO] Update id=632850963 is handled. Duration 64 ms by bot id=7316010696
+2025-06-16 03:54:24,823 [INFO] Update id=632850964 is handled. Duration 193 ms by bot id=7316010696
+2025-06-16 03:55:14,461 [INFO] Added 96 channels
+2025-06-16 03:55:14,462 [INFO] Update id=632850965 is handled. Duration 171 ms by bot id=7316010696
+2025-06-16 04:04:41,832 [WARNING] Received SIGINT signal
+2025-06-16 04:04:41,844 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 04:04:41,844 [INFO] Polling stopped
+2025-06-16 04:13:00,790 [INFO] Start polling
+2025-06-16 04:13:00,944 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 04:13:04,400 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 44
+2025-06-16 04:13:04,610 [INFO] ::1 [16/Jun/2025:04:13:04 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 04:18:04,031 [WARNING] Received SIGINT signal
+2025-06-16 04:18:04,032 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 04:18:04,032 [INFO] Polling stopped
+2025-06-16 04:45:56,907 [INFO] Start polling
+2025-06-16 04:45:57,067 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 04:45:57,732 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 44
+2025-06-16 04:45:57,949 [INFO] ::1 [16/Jun/2025:04:45:57 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 04:46:45,953 [INFO] Monitoring flag set to False
+2025-06-16 04:46:46,140 [INFO] Update id=632850966 is handled. Duration 189 ms by bot id=7316010696
+2025-06-16 04:46:47,645 [INFO] Monitoring flag set to True
+2025-06-16 04:46:47,737 [INFO] Update id=632850967 is handled. Duration 92 ms by bot id=7316010696
+2025-06-16 04:50:28,296 [INFO] Configuration reloaded by 7570803881
+2025-06-16 04:50:28,297 [INFO] Update id=632850968 is handled. Duration 189 ms by bot id=7316010696
+2025-06-16 04:52:59,217 [WARNING] Received SIGTERM signal
+2025-06-16 04:52:59,224 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 04:52:59,224 [INFO] Polling stopped
+2025-06-16 04:55:10,529 [INFO] Start polling
+2025-06-16 04:55:10,682 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 04:55:13,154 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 44
+2025-06-16 04:55:13,387 [INFO] ::1 [16/Jun/2025:04:55:13 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 04:58:11,981 [INFO] Monitoring flag set to False
+2025-06-16 04:58:12,166 [INFO] Update id=632850969 is handled. Duration 188 ms by bot id=7316010696
+2025-06-16 04:58:12,969 [INFO] Monitoring flag set to True
+2025-06-16 04:58:13,040 [INFO] Update id=632850970 is handled. Duration 71 ms by bot id=7316010696
+2025-06-16 05:01:17,438 [INFO] Update id=632850971 is handled. Duration 176 ms by bot id=7316010696
+2025-06-16 05:01:22,061 [INFO] Added 15 channels
+2025-06-16 05:01:22,062 [INFO] Update id=632850972 is handled. Duration 67 ms by bot id=7316010696
+2025-06-16 05:07:56,708 [INFO] Update id=632850973 is handled. Duration 171 ms by bot id=7316010696
+2025-06-16 05:08:00,823 [INFO] Update id=632850974 is handled. Duration 64 ms by bot id=7316010696
+2025-06-16 05:08:09,280 [INFO] Update id=632850975 is handled. Duration 1 ms by bot id=7316010696
+2025-06-16 05:08:12,244 [INFO] Update id=632850976 is handled. Duration 122 ms by bot id=7316010696
+2025-06-16 05:08:14,099 [INFO] Channel rzncity removed
+2025-06-16 05:08:14,099 [INFO] Update id=632850977 is handled. Duration 65 ms by bot id=7316010696
+2025-06-16 05:08:34,125 [INFO] Update id=632850978 is handled. Duration 164 ms by bot id=7316010696
+2025-06-16 05:08:37,540 [INFO] Channel piter27 removed
+2025-06-16 05:08:37,540 [INFO] Update id=632850979 is handled. Duration 62 ms by bot id=7316010696
+2025-06-16 05:08:46,329 [INFO] Update id=632850980 is handled. Duration 1 ms by bot id=7316010696
+2025-06-16 05:09:23,078 [INFO] Update id=632850981 is handled. Duration 181 ms by bot id=7316010696
+2025-06-16 05:09:26,281 [INFO] Channel news_murino removed
+2025-06-16 05:09:26,281 [INFO] Update id=632850982 is handled. Duration 69 ms by bot id=7316010696
+2025-06-16 05:12:02,808 [INFO] Update id=632850983 is handled. Duration 213 ms by bot id=7316010696
+2025-06-16 05:12:14,630 [INFO] Added 2 channels
+2025-06-16 05:12:14,630 [INFO] Update id=632850984 is handled. Duration 67 ms by bot id=7316010696
+2025-06-16 05:12:34,807 [INFO] Update id=632850985 is handled. Duration 173 ms by bot id=7316010696
+2025-06-16 05:14:24,180 [INFO] Added 3 channels
+2025-06-16 05:14:24,180 [INFO] Update id=632850986 is handled. Duration 198 ms by bot id=7316010696
+2025-06-16 05:14:46,182 [INFO] Update id=632850987 is handled. Duration 161 ms by bot id=7316010696
+2025-06-16 05:14:47,211 [INFO] Added 1 channels
+2025-06-16 05:14:47,211 [INFO] Update id=632850988 is handled. Duration 78 ms by bot id=7316010696
+2025-06-16 05:26:12,287 [INFO] Monitoring flag set to False
+2025-06-16 05:26:12,490 [INFO] Update id=632850989 is handled. Duration 206 ms by bot id=7316010696
+2025-06-16 05:26:13,413 [INFO] Monitoring flag set to True
+2025-06-16 05:26:13,513 [INFO] Update id=632850990 is handled. Duration 101 ms by bot id=7316010696
+2025-06-16 16:55:45,666 [INFO] Получен alert: Тестовое сообщение
+2025-06-16 16:55:45,879 [INFO] 127.0.0.1 [16/Jun/2025:16:55:45 +0300] "POST /alert HTTP/1.1" 200 153 "-" "curl/7.81.0"
+2025-06-16 16:57:46,451 [WARNING] Received SIGTERM signal
+2025-06-16 16:57:46,452 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 16:57:46,453 [INFO] Polling stopped
+2025-06-16 16:57:50,787 [INFO] Start polling
+2025-06-16 16:57:50,956 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 16:57:54,194 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 59
+2025-06-16 16:57:54,636 [INFO] ::1 [16/Jun/2025:16:57:54 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 16:58:28,019 [WARNING] Received SIGTERM signal
+2025-06-16 16:58:28,021 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 16:58:28,025 [INFO] Polling stopped
+2025-06-16 16:58:32,237 [INFO] Start polling
+2025-06-16 16:58:32,410 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 16:58:35,143 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 59
+2025-06-16 16:58:35,455 [INFO] ::1 [16/Jun/2025:16:58:35 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 16:58:43,541 [INFO] Получен alert: Test Alert
+2025-06-16 16:58:43,629 [INFO] 127.0.0.1 [16/Jun/2025:16:58:43 +0300] "POST /alert HTTP/1.1" 200 153 "-" "curl/7.81.0"
+2025-06-16 17:00:26,005 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 59
+2025-06-16 17:00:26,286 [INFO] ::1 [16/Jun/2025:17:00:25 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:08:53,924 [INFO] Получен alert: Проверка связи
+2025-06-16 17:08:54,152 [INFO] 127.0.0.1 [16/Jun/2025:17:08:53 +0300] "POST /alert HTTP/1.1" 200 153 "-" "curl/7.81.0"
+2025-06-16 17:09:01,298 [INFO] Получен alert: Проверка связи
+2025-06-16 17:09:01,380 [INFO] 127.0.0.1 [16/Jun/2025:17:09:01 +0300] "POST /alert HTTP/1.1" 200 153 "-" "curl/7.81.0"
+2025-06-16 17:12:47,151 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 59
+2025-06-16 17:12:47,364 [INFO] ::1 [16/Jun/2025:17:12:47 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:15:11,511 [INFO] Update id=632850991 is handled. Duration 255 ms by bot id=7316010696
+2025-06-16 17:15:14,391 [INFO] Added 1 channels
+2025-06-16 17:15:14,392 [INFO] Update id=632850992 is handled. Duration 93 ms by bot id=7316010696
+2025-06-16 17:16:48,256 [INFO] Получен alert: 🟢 Криминал
+
+мигрант убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/4)
+2025-06-16 17:16:48,479 [INFO] ::1 [16/Jun/2025:17:16:48 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:16:56,437 [INFO] Получен alert: 🟢 Криминал
+
+мигрант убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/5)
+2025-06-16 17:16:56,544 [INFO] ::1 [16/Jun/2025:17:16:56 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:17:21,162 [INFO] Получен alert: 🟢 Криминал
+
+чурка убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/6)
+2025-06-16 17:17:21,387 [INFO] ::1 [16/Jun/2025:17:17:21 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:18:01,707 [INFO] Получен alert: 🟢 Криминал
+
+чурка убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/7)
+2025-06-16 17:18:01,907 [ERROR] Ошибка при отправке документа: Telegram server says - Bad Request: file must be non-empty
+2025-06-16 17:18:01,924 [INFO] ::1 [16/Jun/2025:17:18:01 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:36:27,101 [WARNING] Received SIGTERM signal
+2025-06-16 17:36:27,103 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 17:36:27,103 [INFO] Polling stopped
+2025-06-16 17:36:30,613 [INFO] Start polling
+2025-06-16 17:36:30,788 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 17:36:33,663 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 60
+2025-06-16 17:36:34,009 [INFO] ::1 [16/Jun/2025:17:36:33 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:37:11,141 [INFO] Monitoring flag set to False
+2025-06-16 17:37:11,330 [INFO] Update id=632850993 is handled. Duration 192 ms by bot id=7316010696
+2025-06-16 17:37:11,675 [INFO] Monitoring flag set to True
+2025-06-16 17:37:11,752 [INFO] Update id=632850994 is handled. Duration 78 ms by bot id=7316010696
+2025-06-16 17:44:23,956 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 60
+2025-06-16 17:44:24,210 [INFO] ::1 [16/Jun/2025:17:44:23 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:44:55,997 [INFO] Получен alert: 🟢 Криминал
+
+чурка убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/13)
+2025-06-16 17:44:56,181 [INFO] ::1 [16/Jun/2025:17:44:55 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:45:04,852 [INFO] Получен alert: 🟢 Криминал
+
+чурка убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/14)
+2025-06-16 17:45:04,955 [ERROR] Ошибка при отправке медиа: Telegram server says - Bad Request: file must be non-empty
+2025-06-16 17:45:04,965 [INFO] ::1 [16/Jun/2025:17:45:04 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:46:22,394 [INFO] Получен alert: 🟢 Криминал
+
+чурка убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/15)
+2025-06-16 17:46:22,622 [INFO] ::1 [16/Jun/2025:17:46:22 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 17:59:51,396 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 60
+2025-06-16 17:59:51,599 [INFO] ::1 [16/Jun/2025:17:59:51 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 18:00:14,032 [INFO] Получен alert: 🟢 Криминал
+
+чурка убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/19)
+2025-06-16 18:00:14,239 [INFO] ::1 [16/Jun/2025:18:00:14 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 18:00:46,215 [INFO] Получен alert: 🟢 Криминал
+
+чурка убил бомжа
+
+🔗 [Источник](https://t.me/testrsiabot/20)
+2025-06-16 18:00:46,462 [ERROR] Ошибка при отправке медиа: Telegram server says - Bad Request: file must be non-empty
+2025-06-16 18:00:46,465 [INFO] ::1 [16/Jun/2025:18:00:46 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 19:04:32,515 [WARNING] Received SIGTERM signal
+2025-06-16 19:04:32,517 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 19:04:32,517 [INFO] Polling stopped
+2025-06-16 19:04:35,890 [INFO] Start polling
+2025-06-16 19:04:36,040 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 19:04:39,132 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 60
+2025-06-16 19:04:39,479 [INFO] ::1 [16/Jun/2025:19:04:39 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 19:06:03,259 [WARNING] Received SIGTERM signal
+2025-06-16 19:06:03,261 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 19:06:03,262 [INFO] Polling stopped
+2025-06-16 19:06:06,280 [INFO] Start polling
+2025-06-16 19:06:06,440 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-16 19:06:09,473 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 60
+2025-06-16 19:06:09,718 [INFO] ::1 [16/Jun/2025:19:06:09 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 19:07:16,449 [INFO] Получен alert: 📎 [Криминал]
+🟢 НИЗКИЙ УРОВЕНЬ ТРЕВОГИ
+чурка убил бомжа
+🕓 2025-06-16 22:07
+📍 [Источник](https://t.me/
+2025-06-16 19:07:16,748 [ERROR] Ошибка при отправке медиа: Telegram server says - Bad Request: file must be non-empty
+2025-06-16 19:07:16,756 [INFO] ::1 [16/Jun/2025:19:07:16 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 19:07:20,080 [INFO] Получен alert: 📎 [Криминал]
+🟢 НИЗКИЙ УРОВЕНЬ ТРЕВОГИ
+чурка убил бомжа
+🕓 2025-06-16 22:07
+📍 [Источник](https://t.me/
+2025-06-16 19:07:20,199 [INFO] ::1 [16/Jun/2025:19:07:20 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 19:26:29,792 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 60
+2025-06-16 19:26:30,021 [INFO] ::1 [16/Jun/2025:19:26:29 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-16 19:26:41,827 [INFO] Monitoring flag set to False
+2025-06-16 19:26:41,875 [INFO] Update id=632850996 is handled. Duration 1 ms by bot id=7316010696
+2025-06-16 19:26:41,921 [INFO] Update id=632850995 is handled. Duration 96 ms by bot id=7316010696
+2025-06-16 19:26:43,371 [INFO] Monitoring flag set to True
+2025-06-16 19:26:43,444 [INFO] Update id=632850997 is handled. Duration 74 ms by bot id=7316010696
+2025-06-16 20:48:00,303 [INFO] Configuration reloaded by 7570803881
+2025-06-16 20:48:00,305 [INFO] Update id=632850998 is handled. Duration 311 ms by bot id=7316010696
+2025-06-16 20:49:56,521 [INFO] Update id=632850999 is handled. Duration 198 ms by bot id=7316010696
+2025-06-16 20:50:07,776 [INFO] Added 1 channels
+2025-06-16 20:50:07,776 [INFO] Update id=632851000 is handled. Duration 80 ms by bot id=7316010696
+2025-06-16 20:51:00,457 [INFO] Update id=632851001 is handled. Duration 195 ms by bot id=7316010696
+2025-06-16 20:51:01,830 [INFO] Added 1 channels
+2025-06-16 20:51:01,830 [INFO] Update id=632851002 is handled. Duration 83 ms by bot id=7316010696
+2025-06-16 20:51:03,422 [INFO] Update id=632851003 is handled. Duration 146 ms by bot id=7316010696
+2025-06-16 20:51:07,552 [INFO] Channel +MDItw9rb0Oo5Mzcy removed
+2025-06-16 20:51:07,552 [INFO] Update id=632851004 is handled. Duration 70 ms by bot id=7316010696
+2025-06-16 20:52:19,386 [INFO] Update id=632851005 is handled. Duration 193 ms by bot id=7316010696
+2025-06-16 20:52:20,844 [INFO] Added 1 channels
+2025-06-16 20:52:20,844 [INFO] Update id=632851006 is handled. Duration 87 ms by bot id=7316010696
+2025-06-16 20:53:50,093 [INFO] Update id=632851007 is handled. Duration 3 ms by bot id=7316010696
+2025-06-16 20:53:58,170 [INFO] Update id=632851008 is handled. Duration 171 ms by bot id=7316010696
+2025-06-16 20:54:06,082 [INFO] Monitoring flag set to False
+2025-06-16 20:54:06,282 [INFO] Update id=632851009 is handled. Duration 201 ms by bot id=7316010696
+2025-06-16 20:54:07,157 [INFO] Monitoring flag set to True
+2025-06-16 20:54:07,236 [INFO] Update id=632851010 is handled. Duration 79 ms by bot id=7316010696
+2025-06-16 20:54:35,290 [INFO] Update id=632851011 is handled. Duration 1 ms by bot id=7316010696
+2025-06-16 20:54:44,791 [INFO] Update id=632851012 is handled. Duration 2 ms by bot id=7316010696
+2025-06-16 20:54:55,927 [INFO] Update id=632851013 is handled. Duration 242 ms by bot id=7316010696
+2025-06-16 20:54:57,555 [INFO] Update id=632851014 is handled. Duration 97 ms by bot id=7316010696
+2025-06-16 20:56:09,297 [INFO] Added 5 channels
+2025-06-16 20:56:09,298 [INFO] Update id=632851015 is handled. Duration 186 ms by bot id=7316010696
+2025-06-16 20:56:53,401 [INFO] Update id=632851016 is handled. Duration 201 ms by bot id=7316010696
+2025-06-16 20:56:55,938 [INFO] Added 1 channels
+2025-06-16 20:56:55,938 [INFO] Update id=632851017 is handled. Duration 126 ms by bot id=7316010696
+2025-06-16 20:57:58,991 [INFO] Update id=632851018 is handled. Duration 199 ms by bot id=7316010696
+2025-06-16 20:58:00,621 [INFO] Added 0 channels
+2025-06-16 20:58:00,622 [INFO] Update id=632851019 is handled. Duration 67 ms by bot id=7316010696
+2025-06-16 20:59:08,748 [INFO] Update id=632851020 is handled. Duration 171 ms by bot id=7316010696
+2025-06-16 21:03:07,532 [INFO] Added 8 channels
+2025-06-16 21:03:07,532 [INFO] Update id=632851021 is handled. Duration 182 ms by bot id=7316010696
+2025-06-16 21:03:40,177 [INFO] Update id=632851022 is handled. Duration 262 ms by bot id=7316010696
+2025-06-16 21:03:41,201 [INFO] Added 1 channels
+2025-06-16 21:03:41,202 [INFO] Update id=632851023 is handled. Duration 77 ms by bot id=7316010696
+2025-06-16 21:13:59,394 [INFO] Update id=632851024 is handled. Duration 199 ms by bot id=7316010696
+2025-06-16 21:14:04,994 [INFO] Added 6 channels
+2025-06-16 21:14:04,994 [INFO] Update id=632851025 is handled. Duration 148 ms by bot id=7316010696
+2025-06-16 21:14:16,527 [INFO] Update id=632851026 is handled. Duration 75 ms by bot id=7316010696
+2025-06-16 21:14:17,512 [INFO] Added 2 channels
+2025-06-16 21:14:17,513 [INFO] Update id=632851027 is handled. Duration 71 ms by bot id=7316010696
+2025-06-16 23:49:00,970 [INFO] Monitoring flag set to False
+2025-06-16 23:49:01,151 [INFO] Update id=632851028 is handled. Duration 184 ms by bot id=7316010696
+2025-06-16 23:49:02,305 [INFO] Monitoring flag set to True
+2025-06-16 23:49:02,462 [INFO] Update id=632851029 is handled. Duration 159 ms by bot id=7316010696
+2025-06-17 01:05:55,150 [INFO] Update id=632851030 is handled. Duration 5 ms by bot id=7316010696
+2025-06-17 01:06:02,622 [INFO] Monitoring flag set to False
+2025-06-17 01:06:02,793 [INFO] Update id=632851031 is handled. Duration 171 ms by bot id=7316010696
+2025-06-17 01:06:03,361 [INFO] Monitoring flag set to True
+2025-06-17 01:06:03,421 [INFO] Update id=632851032 is handled. Duration 60 ms by bot id=7316010696
+2025-06-17 01:06:18,446 [INFO] Configuration reloaded by 7570803881
+2025-06-17 01:06:18,446 [INFO] Update id=632851033 is handled. Duration 85 ms by bot id=7316010696
+2025-06-17 02:30:58,894 [INFO] Update id=632851034 is handled. Duration 186 ms by bot id=7316010696
+2025-06-17 02:31:03,788 [INFO] Added 5 channels
+2025-06-17 02:31:03,788 [INFO] Update id=632851035 is handled. Duration 77 ms by bot id=7316010696
+2025-06-17 02:31:07,757 [INFO] Update id=632851036 is handled. Duration 84 ms by bot id=7316010696
+2025-06-17 02:31:32,175 [INFO] Added 8 channels
+2025-06-17 02:31:32,176 [INFO] Update id=632851037 is handled. Duration 212 ms by bot id=7316010696
+2025-06-17 02:32:00,220 [INFO] Update id=632851038 is handled. Duration 2 ms by bot id=7316010696
+2025-06-17 02:32:05,869 [INFO] Update id=632851039 is handled. Duration 163 ms by bot id=7316010696
+2025-06-17 02:32:07,102 [INFO] Added 9 channels
+2025-06-17 02:32:07,103 [INFO] Update id=632851040 is handled. Duration 69 ms by bot id=7316010696
+2025-06-17 02:32:38,725 [INFO] Update id=632851041 is handled. Duration 2 ms by bot id=7316010696
+2025-06-17 02:32:43,080 [INFO] Update id=632851042 is handled. Duration 183 ms by bot id=7316010696
+2025-06-17 02:32:44,496 [INFO] Added 7 channels
+2025-06-17 02:32:44,496 [INFO] Update id=632851043 is handled. Duration 71 ms by bot id=7316010696
+2025-06-17 02:32:59,417 [INFO] Update id=632851044 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:33:03,298 [INFO] Update id=632851045 is handled. Duration 162 ms by bot id=7316010696
+2025-06-17 02:33:04,815 [INFO] Added 3 channels
+2025-06-17 02:33:04,815 [INFO] Update id=632851046 is handled. Duration 67 ms by bot id=7316010696
+2025-06-17 02:33:14,371 [INFO] Update id=632851047 is handled. Duration 63 ms by bot id=7316010696
+2025-06-17 02:33:15,728 [INFO] Added 0 channels
+2025-06-17 02:33:15,728 [INFO] Update id=632851048 is handled. Duration 63 ms by bot id=7316010696
+2025-06-17 02:33:20,461 [INFO] Update id=632851049 is handled. Duration 62 ms by bot id=7316010696
+2025-06-17 02:33:21,712 [INFO] Added 0 channels
+2025-06-17 02:33:21,712 [INFO] Update id=632851050 is handled. Duration 67 ms by bot id=7316010696
+2025-06-17 02:33:25,121 [INFO] Update id=632851051 is handled. Duration 72 ms by bot id=7316010696
+2025-06-17 02:33:26,062 [INFO] Added 0 channels
+2025-06-17 02:33:26,063 [INFO] Update id=632851052 is handled. Duration 66 ms by bot id=7316010696
+2025-06-17 02:33:29,605 [INFO] Update id=632851053 is handled. Duration 94 ms by bot id=7316010696
+2025-06-17 02:33:30,278 [INFO] Added 0 channels
+2025-06-17 02:33:30,278 [INFO] Update id=632851054 is handled. Duration 66 ms by bot id=7316010696
+2025-06-17 02:33:43,674 [INFO] Update id=632851055 is handled. Duration 63 ms by bot id=7316010696
+2025-06-17 02:33:52,939 [INFO] Update id=632851056 is handled. Duration 62 ms by bot id=7316010696
+2025-06-17 02:35:38,960 [WARNING] Received SIGTERM signal
+2025-06-17 02:35:38,961 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-17 02:35:38,961 [INFO] Polling stopped
+2025-06-17 02:35:48,398 [INFO] Start polling
+2025-06-17 02:35:48,569 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-17 02:36:34,829 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 105
+2025-06-17 02:36:35,102 [INFO] ::1 [17/Jun/2025:02:36:34 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-17 02:37:04,748 [INFO] Update id=632851057 is handled. Duration 156 ms by bot id=7316010696
+2025-06-17 02:37:07,677 [INFO] Added 0 channels
+2025-06-17 02:37:07,678 [INFO] Update id=632851058 is handled. Duration 64 ms by bot id=7316010696
+2025-06-17 02:37:11,714 [INFO] Update id=632851059 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:37:21,736 [INFO] Update id=632851060 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:37:23,549 [INFO] Monitoring flag set to True
+2025-06-17 02:37:23,718 [INFO] Update id=632851061 is handled. Duration 169 ms by bot id=7316010696
+2025-06-17 02:37:25,608 [INFO] Update id=632851062 is handled. Duration 2 ms by bot id=7316010696
+2025-06-17 02:37:39,939 [INFO] Monitoring flag set to True
+2025-06-17 02:37:40,094 [INFO] Update id=632851063 is handled. Duration 157 ms by bot id=7316010696
+2025-06-17 02:37:41,058 [INFO] Monitoring flag set to True
+2025-06-17 02:37:41,202 [INFO] Update id=632851064 is handled. Duration 144 ms by bot id=7316010696
+2025-06-17 02:37:53,588 [INFO] Получен alert: ⚠️ [Криминал] [Межнациональные]
+🟠 СРЕДНИЙ УРОВЕНЬ ТРЕВОГИ
+хачик убил бомжа
+🕓 2025-06-17 05:37
+📍 [Ист
+2025-06-17 02:37:53,668 [INFO] ::1 [17/Jun/2025:02:37:53 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-17 02:38:28,956 [INFO] Update id=632851065 is handled. Duration 3 ms by bot id=7316010696
+2025-06-17 02:38:31,675 [INFO] Update id=632851066 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:38:33,280 [INFO] Update id=632851067 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:39:16,908 [INFO] Monitoring flag set to True
+2025-06-17 02:39:17,085 [INFO] Update id=632851068 is handled. Duration 178 ms by bot id=7316010696
+2025-06-17 02:39:17,722 [INFO] Update id=632851069 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:39:19,344 [INFO] Monitoring flag set to False
+2025-06-17 02:39:19,412 [INFO] Update id=632851070 is handled. Duration 69 ms by bot id=7316010696
+2025-06-17 02:39:20,080 [INFO] Monitoring flag set to True
+2025-06-17 02:39:20,160 [INFO] Update id=632851071 is handled. Duration 80 ms by bot id=7316010696
+2025-06-17 02:39:27,319 [INFO] Update id=632851072 is handled. Duration 72 ms by bot id=7316010696
+2025-06-17 02:40:22,984 [INFO] Update id=632851073 is handled. Duration 183 ms by bot id=7316010696
+2025-06-17 02:42:55,971 [INFO] Update id=632851074 is handled. Duration 2 ms by bot id=7316010696
+2025-06-17 02:44:09,378 [INFO] Update id=632851075 is handled. Duration 180 ms by bot id=7316010696
+2025-06-17 02:44:30,077 [INFO] Monitoring flag set to True
+2025-06-17 02:44:30,261 [INFO] Update id=632851076 is handled. Duration 185 ms by bot id=7316010696
+2025-06-17 02:44:31,868 [INFO] Update id=632851077 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:44:36,440 [INFO] Update id=632851078 is handled. Duration 67 ms by bot id=7316010696
+2025-06-17 02:47:04,581 [INFO] Update id=632851079 is handled. Duration 2 ms by bot id=7316010696
+2025-06-17 02:47:06,738 [INFO] Update id=632851080 is handled. Duration 1 ms by bot id=7316010696
+2025-06-17 02:47:07,602 [INFO] Update id=632851081 is handled. Duration 0 ms by bot id=7316010696
+2025-06-17 02:47:08,875 [INFO] Update id=632851082 is handled. Duration 235 ms by bot id=7316010696
+2025-06-17 02:49:16,940 [INFO] Monitoring flag set to True
+2025-06-17 02:49:17,115 [INFO] Update id=632851083 is handled. Duration 177 ms by bot id=7316010696
+2025-06-17 02:53:50,273 [WARNING] Received SIGTERM signal
+2025-06-17 02:53:50,276 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-17 02:53:50,276 [INFO] Polling stopped
+2025-06-17 02:53:53,504 [INFO] Start polling
+2025-06-17 02:53:53,672 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-17 02:53:59,239 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 105
+2025-06-17 02:53:59,441 [INFO] ::1 [17/Jun/2025:02:53:59 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-17 03:00:53,345 [INFO] Update id=632851084 is handled. Duration 173 ms by bot id=7316010696
+2025-06-17 03:15:43,376 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 105
+2025-06-17 03:15:43,580 [INFO] ::1 [17/Jun/2025:03:15:43 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-17 03:16:11,426 [INFO] Update id=632851085 is handled. Duration 177 ms by bot id=7316010696
+2025-06-17 03:16:53,354 [INFO] Added 4 channels
+2025-06-17 03:16:53,355 [INFO] Update id=632851086 is handled. Duration 180 ms by bot id=7316010696
+2025-06-17 03:19:04,002 [INFO] Update id=632851087 is handled. Duration 3 ms by bot id=7316010696
+2025-06-17 03:19:09,678 [INFO] Update id=632851088 is handled. Duration 189 ms by bot id=7316010696
+2025-06-17 03:19:11,223 [INFO] Added 1 channels
+2025-06-17 03:19:11,223 [INFO] Update id=632851089 is handled. Duration 69 ms by bot id=7316010696
+2025-06-17 10:37:20,505 [INFO] Update id=632851090 is handled. Duration 368 ms by bot id=7316010696
+2025-06-17 10:37:24,888 [INFO] Update id=632851091 is handled. Duration 77 ms by bot id=7316010696
+2025-06-17 10:37:30,789 [INFO] Added 0 channels
+2025-06-17 10:37:30,790 [INFO] Update id=632851092 is handled. Duration 128 ms by bot id=7316010696
+2025-06-17 10:38:03,460 [INFO] Update id=632851093 is handled. Duration 199 ms by bot id=7316010696
+2025-06-17 10:38:06,719 [INFO] Added 0 channels
+2025-06-17 10:38:06,720 [INFO] Update id=632851094 is handled. Duration 96 ms by bot id=7316010696
+2025-06-17 10:54:11,473 [INFO] Update id=632851095 is handled. Duration 196 ms by bot id=7316010696
+2025-06-17 10:54:15,595 [INFO] Added 1 channels
+2025-06-17 10:54:15,595 [INFO] Update id=632851096 is handled. Duration 77 ms by bot id=7316010696
+2025-06-17 10:55:16,231 [INFO] Update id=632851097 is handled. Duration 177 ms by bot id=7316010696
+2025-06-17 10:55:20,228 [INFO] Added 1 channels
+2025-06-17 10:55:20,228 [INFO] Update id=632851098 is handled. Duration 152 ms by bot id=7316010696
+2025-06-17 10:56:00,839 [INFO] Update id=632851099 is handled. Duration 235 ms by bot id=7316010696
+2025-06-17 10:56:04,482 [INFO] Added 1 channels
+2025-06-17 10:56:04,482 [INFO] Update id=632851100 is handled. Duration 88 ms by bot id=7316010696
+2025-06-17 11:03:29,396 [INFO] Update id=632851101 is handled. Duration 200 ms by bot id=7316010696
+2025-06-17 11:03:32,655 [INFO] Added 1 channels
+2025-06-17 11:03:32,656 [INFO] Update id=632851102 is handled. Duration 129 ms by bot id=7316010696
+2025-06-17 11:28:55,272 [INFO] Update id=632851103 is handled. Duration 189 ms by bot id=7316010696
+2025-06-17 11:28:56,262 [INFO] Added 0 channels
+2025-06-17 11:28:56,262 [INFO] Update id=632851104 is handled. Duration 84 ms by bot id=7316010696
+2025-06-17 11:31:50,268 [INFO] Update id=632851105 is handled. Duration 270 ms by bot id=7316010696
+2025-06-17 11:31:51,100 [INFO] Added 0 channels
+2025-06-17 11:31:51,100 [INFO] Update id=632851106 is handled. Duration 149 ms by bot id=7316010696
+2025-06-17 11:32:34,160 [INFO] Update id=632851107 is handled. Duration 185 ms by bot id=7316010696
+2025-06-17 11:32:34,811 [INFO] Added 0 channels
+2025-06-17 11:32:34,811 [INFO] Update id=632851108 is handled. Duration 80 ms by bot id=7316010696
+2025-06-17 11:32:58,425 [INFO] Update id=632851109 is handled. Duration 188 ms by bot id=7316010696
+2025-06-17 11:32:59,483 [INFO] Added 1 channels
+2025-06-17 11:32:59,483 [INFO] Update id=632851110 is handled. Duration 93 ms by bot id=7316010696
+2025-06-17 11:37:18,260 [INFO] Update id=632851111 is handled. Duration 188 ms by bot id=7316010696
+2025-06-17 11:37:19,394 [INFO] Added 1 channels
+2025-06-17 11:37:19,395 [INFO] Update id=632851112 is handled. Duration 73 ms by bot id=7316010696
+2025-06-17 11:37:29,084 [INFO] Update id=632851113 is handled. Duration 83 ms by bot id=7316010696
+2025-06-17 11:37:29,888 [INFO] Added 1 channels
+2025-06-17 11:37:29,888 [INFO] Update id=632851114 is handled. Duration 97 ms by bot id=7316010696
+2025-06-17 11:37:32,876 [INFO] Update id=632851115 is handled. Duration 155 ms by bot id=7316010696
+2025-06-17 11:46:09,694 [INFO] Update id=632851116 is handled. Duration 271 ms by bot id=7316010696
+2025-06-17 11:46:10,570 [INFO] Added 1 channels
+2025-06-17 11:46:10,570 [INFO] Update id=632851117 is handled. Duration 77 ms by bot id=7316010696
+2025-06-17 11:52:26,089 [INFO] Update id=632851118 is handled. Duration 199 ms by bot id=7316010696
+2025-06-17 11:52:26,819 [INFO] Added 0 channels
+2025-06-17 11:52:26,819 [INFO] Update id=632851119 is handled. Duration 201 ms by bot id=7316010696
+2025-06-17 12:04:53,051 [WARNING] Received SIGTERM signal
+2025-06-17 12:04:53,053 [INFO] Polling stopped for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-17 12:04:53,059 [INFO] Polling stopped
+2025-06-17 12:04:57,610 [INFO] Start polling
+2025-06-17 12:04:57,769 [INFO] Run polling for bot @RSIAnews_channel_bot id=7316010696 - 'RSIAnewsbot'
+2025-06-17 12:10:45,695 [INFO] Получен alert: ✅ Watcher запущен.
+📡 Подписок: 118
+2025-06-17 12:10:46,074 [INFO] ::1 [17/Jun/2025:12:10:45 +0300] "POST /alert HTTP/1.1" 200 153 "-" "Python/3.10 aiohttp/3.9.5"
+2025-06-17 12:26:53,105 [INFO] Update id=632851120 is handled. Duration 216 ms by bot id=7316010696
+2025-06-17 12:26:57,234 [INFO] Added 1 channels
+2025-06-17 12:26:57,235 [INFO] Update id=632851121 is handled. Duration 115 ms by bot id=7316010696
+2025-06-17 12:27:18,129 [INFO] Update id=632851122 is handled. Duration 202 ms by bot id=7316010696
+2025-06-17 12:27:22,877 [INFO] Added 1 channels
+2025-06-17 12:27:22,877 [INFO] Update id=632851123 is handled. Duration 125 ms by bot id=7316010696
+2025-06-17 12:31:04,197 [INFO] Update id=632851124 is handled. Duration 295 ms by bot id=7316010696
+2025-06-17 12:31:06,677 [INFO] Added 1 channels
+2025-06-17 12:31:06,677 [INFO] Update id=632851125 is handled. Duration 143 ms by bot id=7316010696
+2025-06-17 12:37:47,106 [INFO] Configuration reloaded by 7570803881
+2025-06-17 12:37:47,107 [INFO] Update id=632851126 is handled. Duration 173 ms by bot id=7316010696
+2025-06-17 12:37:50,407 [INFO] Monitoring flag set to False
+2025-06-17 12:37:50,514 [INFO] Update id=632851127 is handled. Duration 108 ms by bot id=7316010696
+2025-06-17 12:37:51,857 [INFO] Monitoring flag set to False
+2025-06-17 12:37:51,931 [INFO] Update id=632851128 is handled. Duration 75 ms by bot id=7316010696
+2025-06-17 12:37:52,710 [INFO] Monitoring flag set to False
+2025-06-17 12:37:52,779 [INFO] Update id=632851129 is handled. Duration 70 ms by bot id=7316010696
+2025-06-17 12:37:53,226 [INFO] Monitoring flag set to True
+2025-06-17 12:37:53,315 [INFO] Update id=632851130 is handled. Duration 89 ms by bot id=7316010696
+2025-06-17 12:45:40,336 [INFO] Monitoring flag set to False
+2025-06-17 12:45:40,523 [INFO] Update id=632851131 is handled. Duration 190 ms by bot id=7316010696
+2025-06-17 13:19:02,657 [INFO] Update id=632851132 is handled. Duration 265 ms by bot id=7316010696
+2025-06-17 13:19:03,609 [INFO] Monitoring flag set to True
+2025-06-17 13:19:03,802 [INFO] Update id=632851133 is handled. Duration 194 ms by bot id=7316010696
+2025-06-17 13:19:05,685 [INFO] Update id=632851134 is handled. Duration 61 ms by bot id=7316010696
+2025-06-17 13:19:09,811 [INFO] Added 1 channels
+2025-06-17 13:19:09,812 [INFO] Update id=632851135 is handled. Duration 90 ms by bot id=7316010696
+2025-06-17 16:53:20,065 [INFO] Monitoring flag set to False
+2025-06-17 16:53:20,278 [INFO] Update id=632851136 is handled. Duration 217 ms by bot id=7316010696
+2025-06-17 16:53:21,592 [INFO] Update id=632851137 is handled. Duration 86 ms by bot id=7316010696
+2025-06-17 16:53:28,018 [INFO] Added 78 channels
+2025-06-17 16:53:28,019 [INFO] Update id=632851138 is handled. Duration 138 ms by bot id=7316010696
+2025-06-17 16:53:48,529 [INFO] Update id=632851139 is handled. Duration 4 ms by bot id=7316010696
+2025-06-17 16:53:51,987 [INFO] Update id=632851140 is handled. Duration 175 ms by bot id=7316010696
+2025-06-17 16:53:52,617 [INFO] Added 0 channels
+2025-06-17 16:53:52,618 [INFO] Update id=632851141 is handled. Duration 120 ms by bot id=7316010696
+2025-06-17 16:54:04,873 [INFO] Monitoring flag set to True
+2025-06-17 16:54:04,940 [INFO] Update id=632851142 is handled. Duration 69 ms by bot id=7316010696

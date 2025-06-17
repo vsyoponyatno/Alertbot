@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "/opt/news_monitor/run.sh", line 2
+    python3 watcher.py &
+            ^^^^^^^
+SyntaxError: invalid syntax

@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto
+aiogram==3.4.1
+aiohttp
+PyYAML
+python-dotenv
