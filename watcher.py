@@ -5,7 +5,7 @@ import logging
 import yaml
 
 from dotenv import load_dotenv
-from pyrogram import Client
+from pyrogram import Client, filters
 from pyrogram import idle
 from pyrogram.handlers import MessageHandler
 from aiogram import Bot
@@ -179,8 +179,6 @@ async def handler(client, message):
     if not message.chat:
         return
     chat = message.chat
-    if chat.type not in ("channel", "supergroup"):
-        return
     username = getattr(chat, 'username', None)
     channel_id = str(chat.id)
     username_key = username.lower() if username else None
@@ -236,7 +234,7 @@ async def main():
     app = Client(SESSION_NAME, api_id=API_ID, api_hash=API_HASH)
 
     await app.start()
-    app.add_handler(MessageHandler(handler))
+    app.add_handler(MessageHandler(handler, filters.channel | filters.group))
     me = await app.get_me()
     logging.info('Watcher started as %s', me.username or me.first_name)
     logging.info('Monitoring is %s', 'enabled' if monitoring_enabled() else 'disabled')
