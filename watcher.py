@@ -33,6 +33,8 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+# Hide verbose debug logs from pyrogram
+logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 me = None
 current_channels: set[str] = set()
@@ -49,7 +51,18 @@ def load_keywords():
 def load_channels():
     try:
         with open(CHANNELS_PATH, encoding='utf-8') as f:
-            return json.load(f)
+            channels = json.load(f)
+        fixed = []
+        changed = False
+        for ch in channels:
+            if isinstance(ch, str) and ch.startswith("-100-100"):
+                ch = "-100" + ch[5:]
+                changed = True
+            fixed.append(ch)
+        if changed:
+            with open(CHANNELS_PATH, "w", encoding="utf-8") as f:
+                json.dump(fixed, f, ensure_ascii=False, indent=2)
+        return fixed
     except FileNotFoundError:
         logging.error('channels file not found')
         return []
@@ -191,7 +204,7 @@ async def export_channels(app) -> set[str]:
     async for dialog in app.get_dialogs():
         chat = dialog.chat
         if chat.type != "private":
-            identifier = chat.username or f"-100{chat.id}"
+            identifier = chat.username or str(chat.id)
             channels.append(identifier)
     os.makedirs(os.path.dirname(CHANNELS_PATH), exist_ok=True)
     unique = sorted(set(channels))
@@ -216,13 +229,17 @@ async def main():
     logging.info('Watcher started as %s', me.username or me.first_name)
     logging.info('Monitoring is %s', 'enabled' if monitoring_enabled() else 'disabled')
 
-    current_channels = await export_channels(app)
+    if os.path.exists(CHANNELS_PATH):
+        current_channels = set(load_channels())
+    else:
+        current_channels = await export_channels(app)
+
+    await sync_channels(app)
     subscribed = list(current_channels)
 
     msg = f"✅ Watcher запущен.\n📡 Подписок: {len(subscribed)}"
     data = {'text': msg}
     await post_alert(data, retries=5, delay=2)
-    await sync_channels(app)
     log_channels()
 
     asyncio.create_task(heartbeat(app))
