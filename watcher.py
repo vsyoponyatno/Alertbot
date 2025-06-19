@@ -33,6 +33,8 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+# Hide verbose debug logs from pyrogram
+logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 me = None
 current_channels: set[str] = set()
@@ -49,7 +51,25 @@ def load_keywords():
 def load_channels():
     try:
         with open(CHANNELS_PATH, encoding='utf-8') as f:
-            return json.load(f)
+            channels = json.load(f)
+        fixed = []
+        changed = False
+        for ch in channels:
+            if isinstance(ch, str):
+                ch = ch.lstrip('@')
+                if ch.startswith("-100-100"):
+                    ch = "-100" + ch[5:]
+                    changed = True
+                elif not ch.startswith("-100"):
+                    lower = ch.lower()
+                    if lower != ch:
+                        changed = True
+                    ch = lower
+            fixed.append(str(ch))
+        if changed:
+            with open(CHANNELS_PATH, "w", encoding="utf-8") as f:
+                json.dump(sorted(set(fixed)), f, ensure_ascii=False, indent=2)
+        return fixed
     except FileNotFoundError:
         logging.error('channels file not found')
         return []
@@ -65,10 +85,12 @@ async def sync_channels(app):
     to_join = desired - current_channels
     to_leave = current_channels - desired
 
+    joined = set()
     for ch in to_join:
         try:
             await app.join_chat(ch)
             logging.info('Joined channel %s', ch)
+            joined.add(ch)
         except Exception as e:
             logging.warning('Failed to join %s: %s', ch, e)
 
@@ -79,7 +101,7 @@ async def sync_channels(app):
         except Exception as e:
             logging.warning('Failed to leave %s: %s', ch, e)
 
-    current_channels = desired
+    current_channels = (current_channels | joined) - to_leave
 
 def monitoring_enabled() -> bool:
     if not os.path.exists(FLAG_PATH):
@@ -159,13 +181,14 @@ async def handler(client, message):
     chat = message.chat
     username = getattr(chat, 'username', None)
     channel_id = str(chat.id)
+    username_key = username.lower() if username else None
     if not monitoring_enabled():
         logging.debug('Monitoring disabled, skipping message from %s', username or channel_id)
         return
     channels = current_channels
-    if username:
-        if username not in channels and channel_id not in channels:
-            logging.debug('Channel %s not in monitoring list', username)
+    if username_key:
+        if username_key not in channels and channel_id not in channels:
+            logging.debug('Channel %s not in monitoring list', username_key)
             return
     else:
         if channel_id not in channels:
@@ -191,7 +214,7 @@ async def export_channels(app) -> set[str]:
     async for dialog in app.get_dialogs():
         chat = dialog.chat
         if chat.type != "private":
-            identifier = chat.username or f"-100{chat.id}"
+            identifier = chat.username.lower() if chat.username else str(chat.id)
             channels.append(identifier)
     os.makedirs(os.path.dirname(CHANNELS_PATH), exist_ok=True)
     unique = sorted(set(channels))
@@ -211,18 +234,22 @@ async def main():
     app = Client(SESSION_NAME, api_id=API_ID, api_hash=API_HASH)
 
     await app.start()
-    app.add_handler(MessageHandler(handler, filters.channel))
+    app.add_handler(MessageHandler(handler, filters.channel | filters.group))
     me = await app.get_me()
     logging.info('Watcher started as %s', me.username or me.first_name)
     logging.info('Monitoring is %s', 'enabled' if monitoring_enabled() else 'disabled')
 
-    current_channels = await export_channels(app)
+    if os.path.exists(CHANNELS_PATH):
+        current_channels = set(load_channels())
+    else:
+        current_channels = await export_channels(app)
+
+    await sync_channels(app)
     subscribed = list(current_channels)
 
     msg = f"✅ Watcher запущен.\n📡 Подписок: {len(subscribed)}"
     data = {'text': msg}
     await post_alert(data, retries=5, delay=2)
-    await sync_channels(app)
     log_channels()
 
     asyncio.create_task(heartbeat(app))
